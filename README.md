@@ -1,2 +1,2 @@
 # thuat-toan
-luu trru nhung thuat toan/code hay
+luu tru nhung thuat toan/code hay
